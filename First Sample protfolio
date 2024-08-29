@@ -1,0 +1,35 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protfolio</title>
+</head>
+<body>
+   <h1>Muhammad Jasil E K</h1>
+   <p> Aspiring Full Stack Developer </p>
+   <img src="Jasil.jpeg" alt="MJ" height="100px width=100px">
+   <h2>Education</h2>
+   <ul>
+    <Li><b>10th SSLC</b></Li>
+    <Li><b>12th class</b></Li>
+    <Li><b>Bachelor of Cpmputer science (BCA) </b></Li>
+   </ul>
+   <h2>Skills</h2>
+   <ul>
+    <Li> video Editing</Li>
+    <Li>Desighnimg</Li>
+    <Li>story telling</Li>
+   </ul>
+   <h1>Hobbies</h1>
+   <u1>
+    <Li>Reading</Li>
+    <Li>Debating</Li>
+   </u1>
+   <h1>Contact</h1>
+   <u1>
+    <Li><b>EMAIL: MXD@gmail.com</b></Li>
+    <Li><a href="https://www.linkedin.com/in/muhammad-jasil-e-k-6447732a7/">Linkedin</a></Li>
+   </u1>
+</body>
+</html>
