@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>practise</title>
+</head>
+<body>
+    <!--pq1-->
+    pq1
+    <p>hello Wotld!</p>
+    <h1>DELTA</h1>
+    <h2>FULL STACK</h2>
+    <h3>MERN stACK</h3>
+    <p>Lets begin our learning journey ! </p>
+    <a href="https://www.google.com/">google</a>
+    <ui>
+        <li>Iron man</li>
+        <li>Captian america</li>
+        <li>thor</li>
+        <li>hulk</li>
+        <li>loki</li>
+    </ui>
+<hr>
+    <!-- pq2 -->
+     pq2
+     <p>Today is thr 9<sup>th</sup> of October and 2<sup>4</sup>=16 always</p>
+     <p>&#169; &#8482; </p>
+     <hr>
+     <!--pq3-->
+     <table border="black">
+        <caption>Student information  </caption>
+                <tr>
+                    <th rowspan="6">Info</th>
+                    <th rowspan="2">Name</th>
+                    <th colspan="2">address</th>
+                </tr>
+                <tr>
+                    <th>City</th>
+                    <th>house</th>
+                </tr>
+                <tr>
+                    <td>A</td>
+                    <td>Delhi</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>B</td>
+                    <td>Mumbai</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>C</td>
+                    <td>Kolkata</td>
+                    <td>3</td>
+                </tr>
+                <tr>
+                    <td>D</td>
+                    <td>pune</td>
+                    <td>4</td>
+                </tr>
+     </table>
+
+     <!--2nd-->
+     <form>
+        <label for="name">Name:</label\>
+            <input type="text" value="name">
+            <br>
+
+
+            <label for="sex">sex:</label>
+            <input type="radio" name="sex" id="male" value="male">
+            <lable for="male">male</lable>
+            <input type="radio" name="sex" id="female" value="female">
+            <label for="female">Female</label>
+            <br>
+
+            <label for="Country">Country</label>
+            <select name="country" id="country">
+                <option value="select your option">Select your option</option>
+                <option value="india">India</option>
+                <option value="usa">USA</option>
+                <option value="canada">Canada</option>
+                <option value="nepal">Nepal</option>
+            </select>
+            <br><br>
+           <label for="messege">messege:</label>
+            <textarea name="messege" id="messege" cols="30" rows="4"></textarea>
+            <br>
+            <input type="checkbox" name="newsletter" id="newsletter">
+            <label for="newsletter">Subscribe</label>
+            <button>submit</button>
+        </form>
+        <br>
+        <br>
+
+        <h2>Feedback form</h2>
+        <formaction="/contact">
+            <label for="name">Name:</label>
+            <input type="text" placeholder="Writeyourname" id="name"/><br/><br/>
+            <label for="email">Email:</label>
+            <input type="email"placeholder="Writeyouremail"id="email"/><br/><br/>
+            <label for="message">Message:</label><br/>
+            <textarea name="message"id="message"cols="30"rows="4">
+            </textarea><br/><br/>
+            <label for="rating">Rate us out of 5:</label><br/>
+            <input type="radio"name="rating"id="one"value="one"/>
+            <label for="one">1</label><br/>
+            <input type="radio"name="rating"id="two"value="two"/>
+            <label for="two">2</label><br/>
+            <input type="radio"name="rating"id="three"value="three"/>
+            <label for="three">3</label><br/>
+            <input type="radio"name="rating"id="four"value="four"/> 
+            <label for="four">4</label><br/>
+             <input type="radio"name="rating"id="five"value="five"/>
+             <label for="five">5</label><br/><br/><br/>
+             <button>Sendyourmessage!</button>
+        </form>
+</body>
+</html>
